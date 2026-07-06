@@ -1,0 +1,4 @@
+~$*.xlsx        # Excel temp/lock files
+*.tmp
+.DS_Store       # Mac OS junk file
+Thumbs.db       # Windows junk file
