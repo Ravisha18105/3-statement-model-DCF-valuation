@@ -1,4 +1,11 @@
-~$*.xlsx        # Excel temp/lock files
+# Excel temp/lock files
+~$*.xlsx
+~$*.xlsm
 *.tmp
-.DS_Store       # Mac OS junk file
-Thumbs.db       # Windows junk file
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Source filing PDFs — copyrighted third-party documents, link to them instead (see sources/source_links.md)
+*.pdf
